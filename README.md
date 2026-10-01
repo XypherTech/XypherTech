@@ -1,16 +1,56 @@
-## Hi there 👋
+<p align="center">
+  <img src="./xypher-github-banner.png"
+       alt="Xypher - Dr. Derrick Washington"
+       width="100%">
+</p>
 
-<!--
-**XypherTech/XypherTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Dr. Derrick Washington
 
-Here are some ideas to get you started:
+### IT Educator | Software Developer | CTE Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub.
+
+I'm an IT educator and developer focused on creating practical
+technology solutions and helping students develop real-world
+technical skills.
+
+## 💻 Technology Stack
+
+- Python
+- C#
+- Flask
+- SQL
+- Computer Maintenance
+- CompTIA A+
+- CompTIA Security+
+- Networking
+- Cybersecurity
+- Data Analytics
+
+## 🚀 Featured Projects
+
+### CTE Student Success Dashboard
+A web-based application designed to help CTE educators track
+student performance, certifications, interventions, and progress.
+
+### BRJ Troubleshooting Lab
+A hands-on IT support environment that allows students to
+diagnose real-world workstation and network problems.
+
+### BRJ Help Desk
+A classroom help-desk environment integrating troubleshooting,
+ticketing, documentation, and technical support workflows.
+
+## 🎓 Teaching & Technology
+
+My work focuses on connecting:
+
+**Education • Technology • Leadership • Real-World Skills**
+
+> "Solving Problems. Building People. Impacting the Next Generation."
+
+---
+
+### XYPHER
+
+**Learn • Build • Secure • Teach • Impact**
