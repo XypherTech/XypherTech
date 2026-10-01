@@ -4,17 +4,11 @@
        width="100%">
 </p>
 
-# 👋 Dr. Derrick Washington
+## 👋 Welcome to XypherTech
 
-### IT Educator | Software Developer | CTE Technology
+I'm Dr. Derrick Washington, an IT educator and software developer focused on creating practical technology solutions and helping students develop real-world technical skills.
 
-Welcome to my GitHub.
-
-I'm an IT educator and developer focused on creating practical
-technology solutions and helping students develop real-world
-technical skills.
-
-## 💻 Technology Stack
+### 💻 Technology Stack
 
 - Python
 - C#
